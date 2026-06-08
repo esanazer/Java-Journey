@@ -1,4 +1,4 @@
-class student23 {
+class student {
     String name;
     int age;
 }
