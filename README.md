@@ -40,7 +40,7 @@ My goal is to become a skilled Java developer by practicing coding problems and 
 ## 🚀 How to Run
 
 1. Clone the repository:
-   git clone https://github.com/your-username/Java-Journey.git
+   git clone https://github.com/esanazer/Java-Journey.git
 
 2. Open the project in VS Code or IntelliJ IDEA.
 
@@ -52,6 +52,6 @@ My goal is to become a skilled Java developer by practicing coding problems and 
 
 Muhammed Esa
 
-* GitHub: https://github.com/your-username
+* GitHub: https://github.com/esanazer
 
 ⭐ If you find this repository helpful, feel free to star it!
